@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8c0ecac-2578-4b59-a277-7884cf76ac70" name="Default Changelist" comment="Damn!">
+      <change afterPath="$PROJECT_DIR$/src/每日温度_20221029.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DamnCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DamnCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/LRUCache$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/N皇后_20220508.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/Optional_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/od.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/od2_we_are_team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/od_打印任务排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/quickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/三数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/三角形中最小路径和_20220405.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/不同路径Ⅱ_20220406.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/两个链表得第一个公共节点_20220312$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/两个链表得第一个公共节点_20220312.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/两数之和_20220720.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/买卖股票_20220623.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/买卖股票含冷冻期.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/买卖股票的最佳时机III_20220319.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/买卖股票的最佳时机Ⅱ_20220309.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/Tree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/中序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/中序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/二叉树最小深度_20220515$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/二叉树最小深度_20220515.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/二叉树的所有路径_20220518$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/二叉树的所有路径_20220518.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/二叉树的最大深度_20220513$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/二叉树的最大深度_20220513.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/前序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/前序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/后序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/后序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/层序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/层序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/找树左下角的值_20220521$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/找树左下角的值_20220521.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/翻转二叉树_20220511$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/翻转二叉树_20220511.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/路径总和_20220522$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树/路径总和_20220522.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树的层序遍历_20221011$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二叉树的层序遍历_20221011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/二维数组查找_20220223.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/从上到下打印二叉树_20220227$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/从上到下打印二叉树_20220227$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/从上到下打印二叉树_20220227.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/从上到下打印二叉树Ⅱ_20220303$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/从上到下打印二叉树Ⅱ_20220303.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/使用最小花费爬楼梯_20220627.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/兑换硬币_20220409.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/全排列_20220505.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/全排列Ⅱ_20220506.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/分割回文串_20220504.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/分糖果_20220327.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/分糖果_20220413.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/删除排序链表中的重复元素II_20220818$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/删除排序链表中的重复元素II_20220818.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/删除链表的节点_20220307$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/删除链表的节点_20220307.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/判断子序列_20220427.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/判断括号是否合法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/剪绳子_20220311.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/加油站_20220324.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/单词拆分_20221019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/单词搜索_20220501.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/单调递增数字_20221026.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/反向打印链表_20220222$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/反向打印链表_20220222.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/反转链表_20220221$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/反转链表_20220221.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/合并两个有序链表_20220310$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/合并两个有序链表_20220310.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/合并区间_20220728$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/合并区间_20220728.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/和为s的连续正数序列_20220317.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/回文子串_20220414.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/回文链表_20220709$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/回文链表_20220709.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/圆圈中最后剩下的数字_20220724.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/在排序数组中查找数字_20220315.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/复原IP地址_20220506.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/复数乘法_20220225.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/复杂链表复制_20220226$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/复杂链表复制_20220226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/多线程/blockQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/子集_20220429.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/子集Ⅱ_20220506.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/完全平方数_20220413.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/寻找两个正序数组的中位数_20220325.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/岛屿数量_20220807.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/左旋字符串_20220224.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/打家劫舍Ⅱ_20220418.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/打家劫舍Ⅱ_20220918.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/把数字翻译成字符串_20220302.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/括号_20220803.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/括号生成_20220505.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/括号生成_20220820.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/按权重随机选择_20220830.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/接雨水_20220725.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/数组中出现次数超过一半的数字_20220310.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/数组中的逆序对_20220724.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/旋转数组的最小数字_20220227.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/无重叠区间_20220330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/无重复最长子串_20220325.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/替换空格_20220224.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最后一块石头的重量Ⅱ_20220412.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最大交换_20220701.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最大子数组和_20220426.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最大子数组和_20221025.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最大差值_20220226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最接近的三数之和_20220312.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最长不含重复字符的子字符串_20220301.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最长公共子序列_20220425.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最长回文子串_20220417.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最长回文子序列_20220416.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最长连续序列_20221011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最长递增子序列_20220315.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/最长递增子序列_20220421.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/有效的括号.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/条约游戏Ⅱ_20220323.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/查找重复的数字_20220317.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/滑动窗口的最大值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/烤串_20221022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/珂珂吃香蕉_20221024.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/用两个栈实现队列_20220116.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/用最少数量的箭引爆气球_20220401.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/电话号码的字母组合_20220429.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/目标和_20220410.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/矩形面积_20220827.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/礼物的最大价值_20220228.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/第一个只出现一次的字符_20220227.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/组合_20220428.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/组合总和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/组合总和II_20220501.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/组合总和Ⅱ_20220908.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/组合总和Ⅲ_20220509.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/股票的最大利润_20220228.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/调整数组顺序使奇数位于偶数前面_20220318.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/跳跃游戏_20220322.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/跳跃游戏Ⅱ_20220625.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/连续子数组的最大和_20220301.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/重复的子字符串_29220902.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/集装箱_20221025.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/青蛙跳台阶_20220228.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DamnCode/颠倒字符中的单词_20220506.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/分发糖果_20220831.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/按权重随机选择_20220830.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/重复的子字符串_29220902.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25C5v2DyJB2gXSqf00XcFAKXKXs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/project/DamnCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.每日温度_20221029">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="滑动窗口的最大值" />
+      <module name="DamnCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="珂珂吃香蕉_20221024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="珂珂吃香蕉_20221024" />
+      <module name="DamnCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大子数组和_20221025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最大子数组和_20221025" />
+      <module name="DamnCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="集装箱_20221025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="集装箱_20221025" />
+      <module name="Big Company Plan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="集装箱_20221025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="集装箱_20221025" />
+      <module name="Big Company Plan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="单调递增数字_20221026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="单调递增数字_20221026" />
+      <module name="DamnCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="每日温度_20221029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日温度_20221029" />
+      <module name="DamnCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.每日温度_20221029" />
+      <item itemvalue="Application.单调递增数字_20221026" />
+      <item itemvalue="Application.最大子数组和_20221025" />
+      <item itemvalue="Application.滑动窗口的最大值" />
+      <item itemvalue="Application.珂珂吃香蕉_20221024" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.每日温度_20221029" />
+        <item itemvalue="Application.滑动窗口的最大值" />
+        <item itemvalue="Application.单调递增数字_20221026" />
+        <item itemvalue="Application.最大子数组和_20221025" />
+        <item itemvalue="Application.珂珂吃香蕉_20221024" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8c0ecac-2578-4b59-a277-7884cf76ac70" name="Default Changelist" comment="" />
+      <created>1645018455841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645018455841</updated>
+      <workItem from="1645018457057" duration="1717000" />
+      <workItem from="1645020187667" duration="14000" />
+      <workItem from="1645020210669" duration="5056000" />
+      <workItem from="1645201348014" duration="656000" />
+      <workItem from="1645456192039" duration="5135000" />
+      <workItem from="1645536020845" duration="1620000" />
+      <workItem from="1645623496818" duration="4223000" />
+      <workItem from="1645712824438" duration="1708000" />
+      <workItem from="1645773885322" duration="3454000" />
+      <workItem from="1645849181281" duration="10788000" />
+      <workItem from="1645946032299" duration="7727000" />
+      <workItem from="1645977580244" duration="2988000" />
+      <workItem from="1646060571314" duration="2533000" />
+      <workItem from="1646143605805" duration="6676000" />
+      <workItem from="1646226692707" duration="6047000" />
+      <workItem from="1646320168618" duration="2202000" />
+      <workItem from="1646411322954" duration="2346000" />
+      <workItem from="1646564105386" duration="4480000" />
+      <workItem from="1646667736156" duration="2629000" />
+      <workItem from="1646828280419" duration="1613000" />
+      <workItem from="1646840405076" duration="2114000" />
+      <workItem from="1646911722676" duration="9258000" />
+      <workItem from="1647010190014" duration="4604000" />
+      <workItem from="1647065621611" duration="14000" />
+      <workItem from="1647065644022" duration="7675000" />
+      <workItem from="1647274061909" duration="1301000" />
+      <workItem from="1647308008821" duration="920000" />
+      <workItem from="1647349068425" duration="4157000" />
+      <workItem from="1647395125692" duration="1061000" />
+      <workItem from="1647451326880" duration="2950000" />
+      <workItem from="1647492341174" duration="7392000" />
+      <workItem from="1647527022265" duration="2922000" />
+      <workItem from="1647610780650" duration="641000" />
+      <workItem from="1647611735496" duration="1321000" />
+      <workItem from="1647667722371" duration="5845000" />
+      <workItem from="1647777816449" duration="6567000" />
+      <workItem from="1647956669912" duration="5683000" />
+      <workItem from="1648041087720" duration="13360000" />
+      <workItem from="1648128069324" duration="5464000" />
+      <workItem from="1648205232871" duration="6950000" />
+      <workItem from="1648318268734" duration="1385000" />
+      <workItem from="1648645534977" duration="5577000" />
+      <workItem from="1648819121364" duration="3081000" />
+      <workItem from="1649168736331" duration="32000" />
+      <workItem from="1649168778436" duration="3947000" />
+      <workItem from="1649252778156" duration="1263000" />
+      <workItem from="1649503814937" duration="339000" />
+      <workItem from="1649580591848" duration="4478000" />
+      <workItem from="1649692301882" duration="3408000" />
+      <workItem from="1649774060670" duration="3409000" />
+      <workItem from="1649850966098" duration="2810000" />
+      <workItem from="1649860582040" duration="4928000" />
+      <workItem from="1649947505665" duration="4604000" />
+      <workItem from="1650049730651" duration="952000" />
+      <workItem from="1650096337892" duration="625000" />
+      <workItem from="1650141158873" duration="2693000" />
+      <workItem from="1650210327332" duration="1023000" />
+      <workItem from="1650297178470" duration="698000" />
+      <workItem from="1650379293087" duration="2856000" />
+      <workItem from="1650553656492" duration="1226000" />
+      <workItem from="1650629083467" duration="3359000" />
+      <workItem from="1650890146731" duration="3477000" />
+      <workItem from="1650974359442" duration="5178000" />
+      <workItem from="1651067203504" duration="2895000" />
+      <workItem from="1651159984654" duration="70000" />
+      <workItem from="1651160065442" duration="3520000" />
+      <workItem from="1651213085079" duration="11530000" />
+      <workItem from="1651312456047" duration="7249000" />
+      <workItem from="1651379531705" duration="5282000" />
+      <workItem from="1651678592244" duration="4822000" />
+      <workItem from="1651725473203" duration="2946000" />
+      <workItem from="1651753947125" duration="14503000" />
+      <workItem from="1651837874161" duration="17289000" />
+      <workItem from="1651926661406" duration="616000" />
+      <workItem from="1651930341228" duration="3015000" />
+      <workItem from="1651997182779" duration="6908000" />
+      <workItem from="1652072388838" duration="1268000" />
+      <workItem from="1652075730301" duration="354000" />
+      <workItem from="1652192454814" duration="12867000" />
+      <workItem from="1652274487895" duration="4484000" />
+      <workItem from="1652373010431" duration="2148000" />
+      <workItem from="1652548299277" duration="2462000" />
+      <workItem from="1652609599654" duration="593000" />
+      <workItem from="1652808695579" duration="1068000" />
+      <workItem from="1653074694083" duration="2665000" />
+      <workItem from="1653150610317" duration="20000" />
+      <workItem from="1653150642111" duration="1344000" />
+      <workItem from="1653665027975" duration="3018000" />
+      <workItem from="1654019582482" duration="2519000" />
+      <workItem from="1654701403460" duration="3118000" />
+      <workItem from="1654956313542" duration="13378000" />
+      <workItem from="1655224237174" duration="3064000" />
+      <workItem from="1655305747151" duration="202000" />
+      <workItem from="1655993736865" duration="5501000" />
+      <workItem from="1656092727815" duration="3743000" />
+      <workItem from="1656123902704" duration="69000" />
+      <workItem from="1656221709226" duration="4471000" />
+      <workItem from="1656427162377" duration="1999000" />
+      <workItem from="1656429978086" duration="8055000" />
+      <workItem from="1656483729335" duration="15772000" />
+      <workItem from="1656590237346" duration="1212000" />
+      <workItem from="1656608678247" duration="1863000" />
+      <workItem from="1656699763321" duration="1767000" />
+      <workItem from="1656739904909" duration="11830000" />
+      <workItem from="1656950116847" duration="1318000" />
+      <workItem from="1657025387808" duration="595000" />
+      <workItem from="1657192192932" duration="39000" />
+      <workItem from="1657362991853" duration="3335000" />
+      <workItem from="1657508061900" duration="2000" />
+      <workItem from="1657909026829" duration="2375000" />
+      <workItem from="1657956611955" duration="384000" />
+      <workItem from="1657957419218" duration="10329000" />
+      <workItem from="1657974301611" duration="2591000" />
+      <workItem from="1658328661115" duration="1037000" />
+      <workItem from="1658422771191" duration="634000" />
+      <workItem from="1658512193723" duration="1194000" />
+      <workItem from="1658596849115" duration="3453000" />
+      <workItem from="1658670021654" duration="2048000" />
+      <workItem from="1658672299732" duration="1699000" />
+      <workItem from="1658761548528" duration="1278000" />
+      <workItem from="1658805671002" duration="1200000" />
+      <workItem from="1658823746905" duration="2212000" />
+      <workItem from="1659016179752" duration="3039000" />
+      <workItem from="1659536087877" duration="2856000" />
+      <workItem from="1659761096255" duration="12000" />
+      <workItem from="1659798937820" duration="114000" />
+      <workItem from="1659802949869" duration="1203000" />
+      <workItem from="1660828889126" duration="1934000" />
+      <workItem from="1660911718358" duration="596000" />
+      <workItem from="1661000587798" duration="4226000" />
+      <workItem from="1661612688205" duration="1089000" />
+      <workItem from="1661674245914" duration="15199000" />
+      <workItem from="1661786261490" duration="2150000" />
+      <workItem from="1661874487047" duration="1898000" />
+      <workItem from="1661957874170" duration="2264000" />
+      <workItem from="1662129737837" duration="4454000" />
+      <workItem from="1662293184489" duration="674000" />
+      <workItem from="1662479560318" duration="944000" />
+      <workItem from="1662651549718" duration="741000" />
+      <workItem from="1663514723038" duration="1756000" />
+      <workItem from="1664109887734" duration="706000" />
+      <workItem from="1664642832464" duration="19000" />
+      <workItem from="1665495507363" duration="3422000" />
+      <workItem from="1666195079436" duration="4274000" />
+      <workItem from="1666251457960" duration="334000" />
+      <workItem from="1666290067883" duration="1431000" />
+      <workItem from="1666423001998" duration="591000" />
+      <workItem from="1666457019940" duration="69000" />
+      <workItem from="1666556486153" duration="900000" />
+      <workItem from="1666640721111" duration="818000" />
+      <workItem from="1666664636335" duration="2770000" />
+      <workItem from="1666682398685" duration="1264000" />
+      <workItem from="1666767938512" duration="2533000" />
+      <workItem from="1666852074466" duration="8500000" />
+      <workItem from="1666902040480" duration="713000" />
+      <workItem from="1666903087369" duration="599000" />
+      <workItem from="1666972115252" duration="53000" />
+      <workItem from="1666972183664" duration="840000" />
+      <workItem from="1666973041135" duration="20000" />
+      <workItem from="1666973075456" duration="244000" />
+      <workItem from="1666973330041" duration="53000" />
+      <workItem from="1666973428650" duration="650000" />
+      <workItem from="1666974120844" duration="16000" />
+      <workItem from="1666974295404" duration="4965000" />
+    </task>
+    <task id="LOCAL-00001" summary="Damn!">
+      <created>1666903284941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666903284941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Damn!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Damn!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/寻找两个正序数组的中位数_20220325.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/买卖股票含冷冻期.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/最大子数组和_20220426.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/二叉树/二叉树最小深度_20220515.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/二叉树/二叉树最小深度_20220515.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/多线程/blockQ.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/跳跃游戏Ⅱ_20220625.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/跳跃游戏Ⅱ_20220625.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/quickSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/矩形面积_20220827.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/矩形面积_20220827.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Big_Company_Plan$_20220426.ic" NAME="最大子数组和_20220426 Coverage Results" MODIFIED="1650979513637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Big_Company_Plan$_20220421.ic" NAME="最长递增子序列_20220421 Coverage Results" MODIFIED="1656230320646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Big_Company_Plan$_20220325.ic" NAME="无重复最长子串_20220325 Coverage Results" MODIFIED="1648207882055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Big_Company_Plan$_20220322.ic" NAME="跳跃游戏_20220322 Coverage Results" MODIFIED="1647961877908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
