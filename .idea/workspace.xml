@@ -4,7 +4,159 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8c0ecac-2578-4b59-a277-7884cf76ac70" name="Default Changelist" comment="Damn!" />
+    <list default="true" id="b8c0ecac-2578-4b59-a277-7884cf76ac70" name="Default Changelist" comment="20221031:mid:最大矩形">
+      <change afterPath="$PROJECT_DIR$/src/最大矩形_20221031.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/LRUCache$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/N皇后_20220508.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/Optional_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/od.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/od2_we_are_team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/od_打印任务排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/quickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/三数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/三角形中最小路径和_20220405.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/不同路径Ⅱ_20220406.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/两个链表得第一个公共节点_20220312$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/两个链表得第一个公共节点_20220312.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/两数之和_20220720.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/买卖股票_20220623.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/买卖股票含冷冻期.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/买卖股票的最佳时机III_20220319.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/买卖股票的最佳时机Ⅱ_20220309.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/Tree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/中序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/中序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/二叉树最小深度_20220515$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/二叉树最小深度_20220515.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/二叉树的所有路径_20220518$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/二叉树的所有路径_20220518.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/二叉树的最大深度_20220513$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/二叉树的最大深度_20220513.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/前序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/前序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/后序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/后序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/层序遍历$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/层序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/找树左下角的值_20220521$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/找树左下角的值_20220521.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/翻转二叉树_20220511$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/翻转二叉树_20220511.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/路径总和_20220522$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树/路径总和_20220522.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树的层序遍历_20221011$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二叉树的层序遍历_20221011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/二维数组查找_20220223.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/从上到下打印二叉树_20220227$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/从上到下打印二叉树_20220227$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/从上到下打印二叉树_20220227.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/从上到下打印二叉树Ⅱ_20220303$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/从上到下打印二叉树Ⅱ_20220303.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/使用最小花费爬楼梯_20220627.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/兑换硬币_20220409.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/全排列_20220505.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/全排列Ⅱ_20220506.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/分割回文串_20220504.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/分糖果_20220327.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/分糖果_20220413.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/删除排序链表中的重复元素II_20220818$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/删除排序链表中的重复元素II_20220818.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/删除链表的节点_20220307$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/删除链表的节点_20220307.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/判断子序列_20220427.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/判断括号是否合法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/剪绳子_20220311.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/加油站_20220324.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/单词拆分_20221019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/单词搜索_20220501.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/单调递增数字_20221026.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/反向打印链表_20220222$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/反向打印链表_20220222.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/反转链表_20220221$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/反转链表_20220221.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/合并两个有序链表_20220310$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/合并两个有序链表_20220310.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/合并区间_20220728$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/合并区间_20220728.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/和为s的连续正数序列_20220317.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/回文子串_20220414.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/回文链表_20220709$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/回文链表_20220709.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/圆圈中最后剩下的数字_20220724.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/在排序数组中查找数字_20220315.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/复原IP地址_20220506.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/复数乘法_20220225.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/复杂链表复制_20220226$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/复杂链表复制_20220226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/多线程/blockQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/子集_20220429.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/子集Ⅱ_20220506.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/完全平方数_20220413.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/寻找两个正序数组的中位数_20220325.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/岛屿数量_20220807.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/左旋字符串_20220224.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/打家劫舍Ⅱ_20220418.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/打家劫舍Ⅱ_20220918.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/把数字翻译成字符串_20220302.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/括号_20220803.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/括号生成_20220505.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/括号生成_20220820.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/按权重随机选择_20220830.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/接雨水_20220725.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/数组中出现次数超过一半的数字_20220310.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/数组中的逆序对_20220724.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/旋转数组的最小数字_20220227.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/无重叠区间_20220330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/无重复最长子串_20220325.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/替换空格_20220224.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最后一块石头的重量Ⅱ_20220412.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最大交换_20220701.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最大子数组和_20220426.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最大子数组和_20221025.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最大差值_20220226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最接近的三数之和_20220312.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最长不含重复字符的子字符串_20220301.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最长公共子序列_20220425.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最长回文子串_20220417.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最长回文子序列_20220416.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最长连续序列_20221011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最长递增子序列_20220315.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/最长递增子序列_20220421.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/有效的括号.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/条约游戏Ⅱ_20220323.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/查找重复的数字_20220317.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/每日温度_20221029.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/滑动窗口的最大值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/烤串_20221022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/珂珂吃香蕉_20221024.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/用两个栈实现队列_20220116.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/用最少数量的箭引爆气球_20220401.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/电话号码的字母组合_20220429.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/目标和_20220410.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/矩形面积_20220827.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/礼物的最大价值_20220228.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/第一个只出现一次的字符_20220227.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/组合_20220428.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/组合总和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/组合总和II_20220501.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/组合总和Ⅱ_20220908.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/组合总和Ⅲ_20220509.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/股票的最大利润_20220228.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/调整数组顺序使奇数位于偶数前面_20220318.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/跳跃游戏_20220322.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/跳跃游戏Ⅱ_20220625.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/连续子数组的最大和_20220301.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/重复的子字符串_29220902.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/集装箱_20221025.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/青蛙跳台阶_20220228.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/DamnCode/颠倒字符中的单词_20220506.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +215,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.每日温度_20221029">
+  <component name="RunManager" selected="Application.最大矩形_20221031">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -81,13 +233,6 @@
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="滑动窗口的最大值" />
-      <module name="DamnCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="珂珂吃香蕉_20221024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="珂珂吃香蕉_20221024" />
       <module name="DamnCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,20 +273,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="最大矩形_20221031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最大矩形_20221031" />
+      <module name="DamnCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.最大矩形_20221031" />
       <item itemvalue="Application.每日温度_20221029" />
       <item itemvalue="Application.单调递增数字_20221026" />
       <item itemvalue="Application.最大子数组和_20221025" />
       <item itemvalue="Application.滑动窗口的最大值" />
-      <item itemvalue="Application.珂珂吃香蕉_20221024" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.最大矩形_20221031" />
         <item itemvalue="Application.每日温度_20221029" />
         <item itemvalue="Application.滑动窗口的最大值" />
         <item itemvalue="Application.单调递增数字_20221026" />
         <item itemvalue="Application.最大子数组和_20221025" />
-        <item itemvalue="Application.珂珂吃香蕉_20221024" />
       </list>
     </recent_temporary>
   </component>
@@ -318,6 +470,8 @@
       <workItem from="1666974120844" duration="16000" />
       <workItem from="1666974295404" duration="5935000" />
       <workItem from="1667053972787" duration="82000" />
+      <workItem from="1667143717670" duration="674000" />
+      <workItem from="1667185858383" duration="8430000" />
     </task>
     <task id="LOCAL-00001" summary="Damn!">
       <created>1666903284941</created>
@@ -345,7 +499,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Damn!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Damn!" />
+    <MESSAGE value="20221031:mid:最大矩形" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221031:mid:最大矩形" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
