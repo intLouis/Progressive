@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8c0ecac-2578-4b59-a277-7884cf76ac70" name="Default Changelist" comment="20221031:mid:最大矩形">
-      <change afterPath="$PROJECT_DIR$/src/乘积最大子序列_20221103.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/链表反转_20221104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表反转_20221104.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,25 +48,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "E:/project/DamnCode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/project/DamnCode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Font&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.最大矩形_20221031">
+}</component>
+  <component name="RunManager" selected="Application.链表反转_20221104">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -84,13 +84,6 @@
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="滑动窗口的最大值" />
-      <module name="DamnCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最大子数组和_20221025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最大子数组和_20221025" />
       <module name="DamnCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,20 +124,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="链表反转_20221104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链表反转_20221104" />
+      <module name="DamnCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.链表反转_20221104" />
       <item itemvalue="Application.最大矩形_20221031" />
       <item itemvalue="Application.每日温度_20221029" />
       <item itemvalue="Application.单调递增数字_20221026" />
-      <item itemvalue="Application.最大子数组和_20221025" />
       <item itemvalue="Application.滑动窗口的最大值" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.链表反转_20221104" />
         <item itemvalue="Application.最大矩形_20221031" />
         <item itemvalue="Application.每日温度_20221029" />
         <item itemvalue="Application.滑动窗口的最大值" />
         <item itemvalue="Application.单调递增数字_20221026" />
-        <item itemvalue="Application.最大子数组和_20221025" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +323,8 @@
       <workItem from="1667053972787" duration="82000" />
       <workItem from="1667143717670" duration="674000" />
       <workItem from="1667185858383" duration="8430000" />
-      <workItem from="1667403893031" duration="1697000" />
+      <workItem from="1667403893031" duration="2881000" />
+      <workItem from="1667505390364" duration="994000" />
     </task>
     <task id="LOCAL-00001" summary="Damn!">
       <created>1666903284941</created>
@@ -426,6 +427,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Big_Company_Plan$_20220426.ic" NAME="最大子数组和_20220426 Coverage Results" MODIFIED="1650979513637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DamnCode$_20221104.ic" NAME="链表反转_20221104 Coverage Results" MODIFIED="1667505651301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Big_Company_Plan$_20220421.ic" NAME="最长递增子序列_20220421 Coverage Results" MODIFIED="1656230320646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Big_Company_Plan$_20220325.ic" NAME="无重复最长子串_20220325 Coverage Results" MODIFIED="1648207882055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Big_Company_Plan$_20220322.ic" NAME="跳跃游戏_20220322 Coverage Results" MODIFIED="1647961877908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
