@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8c0ecac-2578-4b59-a277-7884cf76ac70" name="Default Changelist" comment="20221031:mid:最大矩形">
+      <change afterPath="$PROJECT_DIR$/output/production/DamnCode/外观数列_20221115.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/DamnCode/戳气球_20221104.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/外观数列_20221115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/接雨水_20221105.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表反转_20221104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表反转_20221104.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +69,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Font&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.链表反转_20221104">
+  <component name="RunManager" selected="Application.外观数列_20221115">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -96,20 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="集装箱_20221025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="集装箱_20221025" />
-      <module name="Big Company Plan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="单调递增数字_20221026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="单调递增数字_20221026" />
-      <module name="DamnCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="每日温度_20221029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="每日温度_20221029" />
       <module name="DamnCode" />
@@ -131,20 +120,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="外观数列_20221115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="外观数列_20221115" />
+      <module name="DamnCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.外观数列_20221115" />
       <item itemvalue="Application.链表反转_20221104" />
       <item itemvalue="Application.最大矩形_20221031" />
       <item itemvalue="Application.每日温度_20221029" />
-      <item itemvalue="Application.单调递增数字_20221026" />
       <item itemvalue="Application.滑动窗口的最大值" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.外观数列_20221115" />
         <item itemvalue="Application.链表反转_20221104" />
         <item itemvalue="Application.最大矩形_20221031" />
         <item itemvalue="Application.每日温度_20221029" />
         <item itemvalue="Application.滑动窗口的最大值" />
-        <item itemvalue="Application.单调递增数字_20221026" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +320,8 @@
       <workItem from="1667143717670" duration="674000" />
       <workItem from="1667185858383" duration="8430000" />
       <workItem from="1667403893031" duration="2881000" />
-      <workItem from="1667505390364" duration="994000" />
+      <workItem from="1667505390364" duration="2107000" />
+      <workItem from="1667582107883" duration="1142000" />
     </task>
     <task id="LOCAL-00001" summary="Damn!">
       <created>1666903284941</created>
